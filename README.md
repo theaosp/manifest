@@ -1,6 +1,6 @@
 # The AOSP  #
 
-# Brought to you by Project team no:6, GEC ,Palakkad #
+# Brought to you by Group 6, GEC PALAKKAD #
 
 Members:
 
