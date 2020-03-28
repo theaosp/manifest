@@ -2,7 +2,12 @@
 
 # Brought to you by Project team no:6, GEC ,Palakkad #
 
+Members:
 
+Abhina
+Haritha
+Kavya
+Sruthi
 
 ### Sync ###
 
